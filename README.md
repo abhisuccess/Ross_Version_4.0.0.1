@@ -1,0 +1,2 @@
+# Ross_Version_4.0.0.1
+Hello people , This is new powerful version of Ross Personal voice assistant with upgraded feature which makes it more convienient and ease for using. I would glad to accept your contribution in my project, kindly let me know. you can do amazing feature like websearches, translate languages, open system application, can predict weather in your cities. Can translate languages into Hindi, German , French.
